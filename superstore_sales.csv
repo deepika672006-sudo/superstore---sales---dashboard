@@ -1,0 +1,101 @@
+Order_ID,Region,Category,Sales,Profit
+ORD-1000,East,Office Supplies,3827,1243
+ORD-1001,West,Technology,1563,1245
+ORD-1002,South,Technology,2181,-97
+ORD-1003,East,Technology,1863,53
+ORD-1004,East,Technology,1729,1050
+ORD-1005,West,Technology,2238,935
+ORD-1006,South,Technology,3502,309
+ORD-1007,South,Office Supplies,2437,1296
+ORD-1008,East,Office Supplies,1506,-102
+ORD-1009,North,Technology,4229,-48
+ORD-1010,East,Office Supplies,2875,713
+ORD-1011,East,Furniture,1482,677
+ORD-1012,East,Technology,909,137
+ORD-1013,East,Furniture,4944,621
+ORD-1014,West,Furniture,4613,986
+ORD-1015,South,Technology,3948,756
+ORD-1016,West,Office Supplies,4979,-40
+ORD-1017,West,Furniture,863,1403
+ORD-1018,West,Technology,2198,600
+ORD-1019,East,Furniture,3645,197
+ORD-1020,North,Furniture,3943,1100
+ORD-1021,South,Furniture,1695,615
+ORD-1022,North,Furniture,3504,1327
+ORD-1023,West,Office Supplies,3963,1215
+ORD-1024,West,Furniture,2053,958
+ORD-1025,North,Furniture,4859,1018
+ORD-1026,North,Furniture,1491,200
+ORD-1027,North,Office Supplies,3781,439
+ORD-1028,West,Furniture,3657,856
+ORD-1029,West,Furniture,1836,487
+ORD-1030,South,Office Supplies,3896,259
+ORD-1031,South,Office Supplies,3199,754
+ORD-1032,West,Office Supplies,3352,269
+ORD-1033,North,Furniture,898,1198
+ORD-1034,North,Office Supplies,2360,845
+ORD-1035,South,Office Supplies,4297,549
+ORD-1036,West,Furniture,4937,1493
+ORD-1037,South,Office Supplies,1054,-163
+ORD-1038,South,Furniture,3674,29
+ORD-1039,East,Technology,1907,1188
+ORD-1040,East,Office Supplies,2977,362
+ORD-1041,East,Technology,1933,237
+ORD-1042,North,Furniture,3710,1106
+ORD-1043,West,Office Supplies,402,-174
+ORD-1044,West,Furniture,3455,25
+ORD-1045,West,Technology,4418,1100
+ORD-1046,West,Furniture,4696,597
+ORD-1047,East,Office Supplies,966,1432
+ORD-1048,North,Office Supplies,4589,83
+ORD-1049,North,Technology,2527,678
+ORD-1050,East,Furniture,3131,759
+ORD-1051,North,Office Supplies,397,1304
+ORD-1052,East,Technology,2130,252
+ORD-1053,West,Office Supplies,3782,819
+ORD-1054,East,Office Supplies,808,615
+ORD-1055,West,Furniture,3472,458
+ORD-1056,West,Office Supplies,1347,1339
+ORD-1057,South,Furniture,4482,346
+ORD-1058,East,Office Supplies,3597,1015
+ORD-1059,South,Technology,2711,872
+ORD-1060,East,Office Supplies,1994,1335
+ORD-1061,East,Furniture,859,-184
+ORD-1062,South,Furniture,3011,995
+ORD-1063,South,Technology,1569,1043
+ORD-1064,East,Office Supplies,2186,-43
+ORD-1065,North,Office Supplies,346,276
+ORD-1066,West,Technology,3419,869
+ORD-1067,South,Office Supplies,3111,1196
+ORD-1068,West,Office Supplies,1934,317
+ORD-1069,North,Furniture,2043,-102
+ORD-1070,North,Office Supplies,688,860
+ORD-1071,North,Office Supplies,3176,79
+ORD-1072,South,Technology,2159,1172
+ORD-1073,North,Technology,2585,296
+ORD-1074,South,Furniture,3119,101
+ORD-1075,North,Office Supplies,4936,-20
+ORD-1076,West,Office Supplies,2002,406
+ORD-1077,West,Office Supplies,4261,922
+ORD-1078,East,Furniture,3569,499
+ORD-1079,West,Furniture,462,792
+ORD-1080,East,Technology,823,939
+ORD-1081,West,Furniture,1216,-10
+ORD-1082,South,Office Supplies,3843,52
+ORD-1083,West,Office Supplies,2249,780
+ORD-1084,East,Furniture,3923,727
+ORD-1085,East,Office Supplies,4748,984
+ORD-1086,North,Office Supplies,3308,1079
+ORD-1087,South,Furniture,4290,1146
+ORD-1088,West,Furniture,2256,-73
+ORD-1089,North,Office Supplies,3370,-183
+ORD-1090,West,Office Supplies,1882,365
+ORD-1091,West,Office Supplies,2455,369
+ORD-1092,North,Technology,1354,1146
+ORD-1093,North,Technology,4699,485
+ORD-1094,North,Technology,3391,425
+ORD-1095,North,Furniture,1896,1111
+ORD-1096,North,Technology,4191,653
+ORD-1097,West,Furniture,4923,1486
+ORD-1098,North,Furniture,4882,761
+ORD-1099,South,Technology,1848,1462
